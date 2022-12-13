@@ -1,4 +1,5 @@
-Oh Hey I'm Rob
+Oh Hey ![image](https://user-images.githubusercontent.com/67548182/207223878-61253e6f-fc6b-45de-890a-ee127b7dccc7.png)
+I'm Rob
 
 I’m currently working on Shopify Projects
 
